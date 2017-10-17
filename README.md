@@ -2,6 +2,6 @@
 
 **Deep Learning Foundation Nanodegree Program**  
 
-**Project 3: Generate TV Scripts**  
+**Project 3 (Recurrent Neural Networks): Generate TV Scripts**  
 
 Completed  
