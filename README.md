@@ -2,7 +2,7 @@
 
 **Deep Learning Foundation Nanodegree Program**  
 
-**Project 3 (Recurrent Neural Network):  
+**Project 3 (Recurrent Neural Network):**  
   
 **Generate TV Scripts**  
   
