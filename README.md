@@ -8,7 +8,7 @@
   
 Please see detail in python notebook (.ipynb)  
   
-**Results:**  
+**Sample Results:**  
 ```
 INFO:tensorflow:Restoring parameters from ./save
 moe_szyslak:(into phone) gotcha ya down for forty bucks. good luck your eminence.
