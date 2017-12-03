@@ -1,10 +1,9 @@
 # tv-script-generation
 
-**Deep Learning Foundation Nanodegree Program**  
-
-**Project 3 (Recurrent Neural Network):**  
+**Generate TV Scripts using Recurrent Neural Networks (RNNs)**  
   
-**Generate TV Scripts**  
+**Summary**  
+Generated new Simpsons TV scripts using word embedding and LSTM techniques, cross-entropy loss = 0.33  
   
 Please see detail in python notebook (.ipynb)  
   
