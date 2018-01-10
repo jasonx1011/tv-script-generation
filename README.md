@@ -5,7 +5,7 @@
 **Summary**  
 Generated new Simpsons TV scripts using word embedding and LSTM techniques, cross-entropy loss = 0.33  
   
-Please see detail in python notebook (.ipynb)  
+Please see detail in python [notebook](./dlnd_tv_script_generation.ipynb) (.ipynb)  
   
 **Sample Results:**  
 ```
